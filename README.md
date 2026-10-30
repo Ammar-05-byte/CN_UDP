@@ -30,10 +30,7 @@ CN code/
 │   ├── UDPDNSServer.java               # DNS resolver server (Port 8053)
 │   └── UDPDNSClient.java               # DNS query client
 │
-├── run_assessment_tests.sh             # Master automated verification script
-├── build_submission_documents.py       # PDF & DOCX generation script
-├── ASSESSMENT_UDP_SUBMISSION.pdf       # Ready-to-submit formatted PDF (19 pages)
-├── ASSESSMENT_UDP_SUBMISSION.docx      # Editable Word document
+├── run_assessment_tests.sh             # Master automated 
 └── README.md                           # Documentation & execution guide
 ```
 
