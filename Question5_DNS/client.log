@@ -1,0 +1,17 @@
+==================================================
+            UDP DNS CLIENT APPLICATION
+==================================================
+DNS Resolver Server: localhost:8053
+Enter a URL or domain name (e.g. google.com, vit.ac.in, github.com).
+Type 'exit' to quit.
+
+[Client] Enter URL / Domain: [Client] <-- DNS Server Reply: IP: 142.250.190.46 [Local DNS Zone Table (Authoritative)]
+
+[Client] Enter URL / Domain: [Client] <-- DNS Server Reply: IP: 115.242.228.10 [Local DNS Zone Table (Authoritative)]
+
+[Client] Enter URL / Domain: [Client] <-- DNS Server Reply: IP: 140.82.121.3 [Local DNS Zone Table (Authoritative)]
+
+[Client] Enter URL / Domain: [Client] <-- DNS Server Reply: IP: 208.80.154.224 [Local DNS Zone Table (Authoritative)]
+
+[Client] Enter URL / Domain: 
+[Client] Exiting DNS Client. Goodbye!

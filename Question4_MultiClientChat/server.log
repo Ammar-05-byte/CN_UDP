@@ -1,0 +1,13 @@
+==================================================
+   UDP MULTI-CLIENT BROADCAST SERVER (PORT 6000)
+==================================================
+[Server] Broadcast server initialized. Waiting for clients...
+
+[Server] New Client Registered: "Alice" from /127.0.0.1:55465
+[Server] Active Members Count: 1
+[Server] Broadcasting message from [Alice]: Hello everyone in the broadcast room!
+[Server] New Client Registered: "Bob" from /127.0.0.1:59005
+[Server] Active Members Count: 2
+[Server] Broadcasting message from [Bob]: Hey Alice, I received your broadcast!
+[Server] Client Disconnected: "Alice" (/127.0.0.1:55465)
+[Server] Client Disconnected: "Bob" (/127.0.0.1:59005)

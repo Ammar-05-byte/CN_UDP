@@ -1,0 +1,17 @@
+==================================================
+          UDP ECHO SERVER (PORT 9876)
+==================================================
+[Server] Server is running and waiting for client datagrams...
+
+[Server] Received packet from: 127.0.0.1:63192
+[Server] Message content: "Hello Computer Networks Lab UDP Echo!"
+[Server] Successfully echoed back 37 bytes to client.
+
+[Server] Received packet from: 127.0.0.1:63192
+[Server] Message content: "Testing UDP Packet Echo"
+[Server] Successfully echoed back 23 bytes to client.
+
+[Server] Received packet from: 127.0.0.1:63192
+[Server] Message content: "exit"
+[Server] Successfully echoed back 4 bytes to client.
+[Server] Client requested termination: 127.0.0.1:63192

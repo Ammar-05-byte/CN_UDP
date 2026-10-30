@@ -1,0 +1,12 @@
+==================================================
+         UDP MULTI-CLIENT CHAT ROOM
+==================================================
+Welcome, [Bob]! Connecting to server at localhost:6000
+Type your messages and press ENTER. Type 'exit' to leave the chat room.
+
+[Bob]: 
+*** [SYSTEM] User 'Bob' entered the chat! (Online: 2) ***
+[Bob]: [Bob]: 
+*** [SYSTEM] User 'Alice' left the chat. (Online: 1) ***
+[Bob]: 
+[Client] You have left the chat room. Goodbye!

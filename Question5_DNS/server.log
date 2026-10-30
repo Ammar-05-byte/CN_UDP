@@ -1,0 +1,30 @@
+==================================================
+          UDP DNS SERVER (PORT 8053)
+==================================================
+[DNS Server] Initialized with 11 pre-configured zone records.
+[DNS Server] Waiting for DNS query datagrams...
+
+[DNS Server] Query received from 127.0.0.1:62638
+[DNS Server] Requested Target : "google.com"
+[DNS Server] Resolved To     : 142.250.190.46
+[DNS Server] Resolution Type : Local DNS Zone Table (Authoritative)
+[DNS Server] Dispatched response datagram back to client.
+
+[DNS Server] Query received from 127.0.0.1:62638
+[DNS Server] Requested Target : "vit.ac.in"
+[DNS Server] Resolved To     : 115.242.228.10
+[DNS Server] Resolution Type : Local DNS Zone Table (Authoritative)
+[DNS Server] Dispatched response datagram back to client.
+
+[DNS Server] Query received from 127.0.0.1:62638
+[DNS Server] Requested Target : "github.com"
+[DNS Server] Resolved To     : 140.82.121.3
+[DNS Server] Resolution Type : Local DNS Zone Table (Authoritative)
+[DNS Server] Dispatched response datagram back to client.
+
+[DNS Server] Query received from 127.0.0.1:62638
+[DNS Server] Requested Target : "https://www.wikipedia.org/wiki/UDP"
+[DNS Server] Resolved To     : 208.80.154.224
+[DNS Server] Resolution Type : Local DNS Zone Table (Authoritative)
+[DNS Server] Dispatched response datagram back to client.
+

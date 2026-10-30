@@ -1,0 +1,16 @@
+==================================================
+          UDP ONE-TO-ONE CHAT CLIENT
+==================================================
+Connecting to Chat Server at localhost:5000
+Type your messages anytime (type 'bye' to quit):
+
+[Client]: 
+[Server]: Hello Client, Server here!
+[Client]: [Client]: 
+[Server]: How are you doing?
+[Client]: [Client]: 
+[Server]: bye
+[Client]: 
+[Client] Server ended the chat session. Exiting.
+[Client Error] Socket closed
+[Client] Chat client stopped.

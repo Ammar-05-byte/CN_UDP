@@ -1,0 +1,11 @@
+==================================================
+          UDP ECHO CLIENT
+==================================================
+Connecting to Echo Server at localhost:9876
+Type your message and press ENTER. Type 'exit' to quit.
+
+[Client] Enter message: [Client] <-- Server Echoed: "Hello Computer Networks Lab UDP Echo!"
+[Client] Enter message: [Client] <-- Server Echoed: "Testing UDP Packet Echo"
+[Client] Enter message: [Client] <-- Server Echoed: "exit"
+
+[Client] Exiting client application. Goodbye!

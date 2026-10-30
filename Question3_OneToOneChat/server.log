@@ -1,0 +1,17 @@
+==================================================
+     UDP ONE-TO-ONE CHAT SERVER (PORT 5000)
+==================================================
+[Server] Waiting for client to initiate chat...
+
+
+[Server] Connected with Chat Client: 127.0.0.1:55435
+[Server] You can now type messages anytime (type 'bye' to quit):
+
+
+[Client]: Hello Server, Client connected!
+[Server]: 
+[Client]: Hi Server, real-time UDP message 1
+[Server]: 
+[Client]: Real-time UDP message 2
+[Server]: [Server] Terminating chat session.
+[Server] Chat server stopped.

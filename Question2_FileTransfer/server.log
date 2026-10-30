@@ -1,0 +1,18 @@
+==================================================
+        UDP FILE TRANSFER SERVER (PORT 8888)
+==================================================
+[Server] Listening on UDP port 8888 for incoming files...
+
+[Server] Incoming file transfer detected from 127.0.0.1:59722
+[Server] File Name     : sample_input.txt
+[Server] Target Output : received_sample_input.txt
+[Server] Expected Size : 1152 bytes
+[Server] Sent READY acknowledgment to client.
+[Server] Received EOF marker from client.
+
+[Server] === Transfer Completed Successfully ===
+[Server] Total Packets Received : 2
+[Server] Total Bytes Written    : 1152 bytes
+[Server] Saved File Location    : /Users/mohammadammarabdullah/Documents 2/CN code /Question2_FileTransfer/received_sample_input.txt
+[Server] Sent SUCCESS confirmation to client.
+

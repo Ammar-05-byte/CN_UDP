@@ -1,0 +1,17 @@
+==================================================
+        UDP FILE TRANSFER CLIENT
+==================================================
+[Client] Target File : sample_input.txt
+[Client] File Size   : 1152 bytes
+[Client] Server      : localhost:8888
+
+[Client] Sent START handshake: "START:sample_input.txt:1152"
+[Client] Received server READY signal. Beginning file transmission...
+[Client] Sent EOF marker packet.
+
+[Client] === Transmission Summary ===
+[Client] Total Datagrams Sent : 2
+[Client] Total Bytes Sent     : 1152 bytes
+[Client] Transmission Time    : 9 ms
+[Client] Server Final Response: SUCCESS:1152
+[Client] File transfer complete!

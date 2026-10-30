@@ -1,18 +1,11 @@
 # Computer Networks Lab (BITE305P) — Assessment UDP
 
-**Student Name:** Mohammad Ammar Abdullah  
-**Registration Number:** `24BYB0017`  
-**School:** School of Computer Science Engineering and Information Systems (SCSEIS)  
-**Institution:** Vellore Institute of Technology (VIT), Vellore  
-**Term:** Fall Semester 2026–2027  
-**Date:** 30/10/2026  
-**Assessment:** UDP Socket Programming (Max Marks: 10)
 
 ---
 
 ## Assessment Overview & Structure
 
-This repository contains fully verified, standard-compliant Java implementations for all 5 questions in the BITE305P UDP Lab Assessment, along with an automated test suite, execution logs, and submission documents (`.pdf` and `.docx`).
+This repository contains fully verified, standard-compliant Java implementations for all 5 questions in the BITE305P UDP Lab Assessment.
 
 ```text
 CN code/
