@@ -1,0 +1,21 @@
+Computer Networks Lab (BITE305P) - UDP File Transfer Assessment
+Student Name: Mohammad Ammar Abdullah
+Registration Number: 24BYB0017
+Institution: Vellore Institute of Technology (VIT), Vellore
+Semester: Fall Semester 2026-27
+
+--- FILE TRANSFER PAYLOAD DATA ---
+User Datagram Protocol (UDP) is a connectionless, lightweight transport layer protocol.
+Unlike TCP, UDP does not maintain an active connection state or perform automatic retransmissions.
+This sample text file demonstrates packetizing file content into discrete UDP datagram chunks,
+transmitting them across UDP sockets, and reconstructing the complete file at the destination server.
+
+Key UDP Characteristics:
+1. Low latency: Minimal protocol header overhead (8 bytes compared to TCP's 20-60 bytes).
+2. Unreliable delivery: Datagrams may arrive out-of-order, duplicated, or dropped without flow control.
+3. Packet-oriented: Preserves message boundaries without byte-stream merging.
+
+Testing File Transfer Verification:
+- Integrity check: Content received matches original file byte-for-byte.
+- Status: SUCCESS
+================================================================================
